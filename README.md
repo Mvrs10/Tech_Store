@@ -3,7 +3,7 @@
  ### 🧮 [Website](https://estore-nine-mu.vercel.app/)
 
 <h2>Description</h2>
-An internal app to support staff members in the process of managing applications from clients.
+Frontend application for ECommerce.
 <br />
 
 
